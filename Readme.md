@@ -41,6 +41,9 @@
                        /     \
                   Верблюды  Ослы
 
+
 7 - 12. myDB.sql
+
 13. Animal (task_13)
+
 14. Animal (task_14)
